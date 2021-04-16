@@ -9,7 +9,7 @@ connects to a server. The receive part is implemented as a server that waits
 for a connection and saves the received data to a file.
 
 ## Instructions (in command line)
-#### Compile the provided makefile with:
+#### Compile makefile with:
 ```bash
 make
 ```
