@@ -24,7 +24,6 @@ make
 ./run client
 ```
 
-
 #### And for starting a server:
 ```bash
 ./run server
@@ -32,4 +31,14 @@ make
 
 The output of the program shows the encrypted data read from the file in the case
 of the client, and the encrypted data received from the client, in the case of 
-the server.
+the server. Example is shown below.
+
+
+
+| Client  | Server |
+| ------- | ------ |
+|Client 1![screenshot-client1](https://user-images.githubusercontent.com/78757687/114965045-78ad2300-9e35-11eb-8bac-b12ad6257061.png)  |Server 1![screenshot-server1](https://user-images.githubusercontent.com/78757687/114965325-fc670f80-9e35-11eb-9985-5d1a1f79fa0c.png)  |
+|Client 2![screenshot-client2](https://user-images.githubusercontent.com/78757687/114965078-86fb3f00-9e35-11eb-9f42-15aa32ce8dc5.png)  |Server 2![screenshot-server2](https://user-images.githubusercontent.com/78757687/114963393-46e68d00-9e32-11eb-9b33-97b8315ccd69.png)  |
+
+
+
